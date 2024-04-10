@@ -4,4 +4,4 @@ This is my initial demo file.
 <br>
 The original one - kumkum_demo1.
 <br>
-Author : Kumkum Mahore.
+Author : Kumkum (Student of Sony Computer Education)
